@@ -1,17 +1,14 @@
 ### Hi there 👋
 
+**Awake-scripts** make ✨ _special_ ✨ scripts
+
+- 🔭 I’m currently working on new fun futures
+- 🌱 I’m currently learning more js and .py
+- 💬 Ask me about anyting and i will answer as good as i can
+- 📫 How to reach me: You can reach me on discord. My name and tag is Awake#9999
+
+### Stats :)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Synthethics&show_icons=true&theme=radical)
-<!--
-**Awake-scripts/Awake-scripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkart2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
