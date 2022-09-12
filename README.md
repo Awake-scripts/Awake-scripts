@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hi there, i'm Awake👋
+
+## I'm a Developer for fivem
 
 **Awake-scripts** is a ✨ _special_ ✨ github page
 
