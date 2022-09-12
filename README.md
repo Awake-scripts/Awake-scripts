@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**Awake-scripts** make ✨ _special_ ✨ scripts
+**Awake-scripts** is a ✨ _special_ ✨ github page
 
 - 🔭 I’m currently working on new fun futures
 - 🌱 I’m currently learning more js and .py
